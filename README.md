@@ -1,5 +1,4 @@
-
-<h3 align="left">Hi there! This is Fawaz. Currently a postdoc in Bioinformatics at the [Steinegger Lab](https://steineggerlab.com/en/) at Seoul National University.</h3>  
+Hi there! This is Fawaz. Currently a postdoc in Bioinformatics at the [Steinegger Lab](https://steineggerlab.com/en/) at Seoul National University.
  
  
 I did my master's in Bioinformtaics at University of Saarland, and my PhD at Heinrich-Heine University Düsseldorf under the supervision of [Tobias Marschall](https://marschall-lab.github.io/) and [Olga Kalinina](https://www.helmholtz-hips.de/en/research/teams/team/drug-bioinformatics/).
