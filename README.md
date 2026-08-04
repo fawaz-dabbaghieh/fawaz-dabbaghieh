@@ -4,7 +4,7 @@ Hi there! This is Fawaz. Currently a postdoc in Bioinformatics at the [Steinegge
 I did my master's in Bioinformtaics at University of Saarland, and my PhD at Heinrich-Heine University Düsseldorf under the supervision of [Tobias Marschall](https://marschall-lab.github.io/) and [Olga Kalinina](https://www.helmholtz-hips.de/en/research/teams/team/drug-bioinformatics/).
 My PhD work mainly focused on developing software in the field of graph genomics and sequence to graph alignment. I developed [BubbleGun](https://github.com/fawaz-dabbaghieh/bubble_gun) for detecting bubbles and superbubbles in genome graphs (publication [here](https://academic.oup.com/bioinformatics/article/38/17/4217/6633304)). I then developed [PanPA](https://github.com/fawaz-dabbaghieh/PanPA) (the PanProteome Aligner) for building genome graphs from amino acid sequences and alignment of both DNA and amino acid sequences against these graphs (publication [here](https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad167/7450145)).
 
-I am currently part of [AEGIS](https://aegisearth.bio/en) working on ancient genomics.
+I am currently part of [AEGIS](https://aegisearth.bio/en) working on ancient genomics, and funded by the [InnoCORE UNIST](https://www.innocore.or.kr/unist/unistLab/ursch_rsch04) program.
 
 At the moment, working on [gfaidx](https://github.com/fawaz-dabbaghieh/gfaidx), a genome graph node-based indexer.
   
